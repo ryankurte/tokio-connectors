@@ -7,6 +7,7 @@
 
 pub mod tcp;
 
+#[cfg(target_family = "unix")]
 pub mod unix;
 
 pub mod codecs;
