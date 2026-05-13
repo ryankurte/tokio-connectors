@@ -1,6 +1,6 @@
 [package]
 name = "tokio-connectors"
-version = "0.1.0"
+version = "0.1.1"
 documentation = "https://docs.rs/tokio-connectors/"
 repository = "https://github.com/ryankurte/tokio-connectors"
 description = "A collection of connectors for tokio-based clients and servers"
